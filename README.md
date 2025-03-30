@@ -1,1 +1,1 @@
-# multi-class-segmentation-for-autonomous-drriving-car
+# multi-class-segmentation-for-autonomous-driving-car
